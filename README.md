@@ -1,6 +1,6 @@
 # npmdoc-syntax-error
 
-#### api documentation for  [syntax-error (v1.3.0)](https://github.com/substack/node-syntax-error)  [![npm package](https://img.shields.io/npm/v/npmdoc-syntax-error.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-syntax-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-syntax-error.svg)](https://travis-ci.org/npmdoc/node-npmdoc-syntax-error)
+#### basic api documentation for  [syntax-error (v1.3.0)](https://github.com/substack/node-syntax-error)  [![npm package](https://img.shields.io/npm/v/npmdoc-syntax-error.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-syntax-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-syntax-error.svg)](https://travis-ci.org/npmdoc/node-npmdoc-syntax-error)
 
 #### detect and report syntax errors in source code strings
 
@@ -75,7 +75,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
